@@ -1,5 +1,5 @@
 /* Custom styles for Vibe Coding Starter Pack */
-@import url('https://fonts.googleapis.com/css2?family=Elms+Sans:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@300;400;500;600;700&display=swap');
 
 /* Light mode colors based on provided color scheme */
 :root {
@@ -13,7 +13,7 @@
 	--sl-color-text-accent: #2196F3;
 
 	/* Font */
-	--sl-font: 'Elms Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+	--sl-font: 'Google Sans Flex', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 	--sl-font-system-mono: ui-monospace, 'SF Mono', 'Cascadia Code', monospace;
 }
 
