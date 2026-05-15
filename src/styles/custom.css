@@ -1,0 +1,14 @@
+/* Custom styles for Vibe Coding Starter Pack */
+
+:root {
+	--sl-color-accent-low: #e0d4f7;
+	--sl-color-accent: #7c3aed;
+	--sl-color-accent-high: #4c1d95;
+	--sl-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+:root[data-theme='dark'] {
+	--sl-color-accent-low: #2e1065;
+	--sl-color-accent: #a78bfa;
+	--sl-color-accent-high: #e0d4f7;
+}
