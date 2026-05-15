@@ -1,14 +1,108 @@
 /* Custom styles for Vibe Coding Starter Pack */
+@import url('https://fonts.googleapis.com/css2?family=Elms+Sans:wght@300;400;500;600;700&display=swap');
 
+/* Light mode colors based on provided color scheme */
 :root {
-	--sl-color-accent-low: #e0d4f7;
-	--sl-color-accent: #7c3aed;
-	--sl-color-accent-high: #4c1d95;
-	--sl-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+	/* Primary blue palette */
+	--sl-color-accent-low: #BBDEFB;
+	--sl-color-accent: #2196F3;
+	--sl-color-accent-high: #1976D2;
+
+	/* Text colors */
+	--sl-color-text: #212121;
+	--sl-color-text-accent: #2196F3;
+
+	/* Font */
+	--sl-font: 'Elms Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+	--sl-font-system-mono: ui-monospace, 'SF Mono', 'Cascadia Code', monospace;
 }
 
+/* Dark mode */
 :root[data-theme='dark'] {
-	--sl-color-accent-low: #2e1065;
-	--sl-color-accent: #a78bfa;
-	--sl-color-accent-high: #e0d4f7;
+	--sl-color-accent-low: #0D47A1;
+	--sl-color-accent: #1565C0;
+	--sl-color-accent-high: #90CAF9;
+	--sl-color-text: #FFFFFF;
+}
+
+/* Rounded corners on cards (10px) */
+.card {
+	border-radius: 10px !important;
+}
+
+starlight-card,
+.sl-link-card {
+	border-radius: 10px !important;
+	overflow: hidden;
+}
+
+starlight-card > div,
+.sl-link-card > a {
+	border-radius: 10px !important;
+}
+
+/* Target Starlight's card grid items */
+.sl-card {
+	border-radius: 10px !important;
+}
+
+[class*="card"] {
+	border-radius: 10px !important;
+}
+
+/* Rounded corners on buttons (10px) */
+a[class*="action"],
+.sl-button,
+button,
+a.action {
+	border-radius: 10px !important;
+}
+
+/* Hero action buttons */
+.hero .action {
+	border-radius: 10px !important;
+}
+
+/* All link-styled buttons in Starlight */
+.sl-flex a[href] {
+	border-radius: 10px;
+}
+
+/* Primary action buttons on splash page */
+.action.primary,
+.action.minimal {
+	border-radius: 10px !important;
+}
+
+/* Accent color for links */
+a:not([class]) {
+	color: var(--sl-color-accent);
+}
+
+a:not([class]):hover {
+	color: var(--sl-color-accent-high);
+}
+
+/* Sidebar active item accent */
+[aria-current="page"] {
+	border-color: var(--sl-color-accent) !important;
+}
+
+/* Code blocks with rounded corners too */
+pre {
+	border-radius: 10px !important;
+}
+
+/* Blockquotes / callouts */
+blockquote {
+	border-left-color: var(--sl-color-accent);
+}
+
+/* Accent color on the splash hero */
+.hero .tagline {
+	color: #757575;
+}
+
+:root[data-theme='dark'] .hero .tagline {
+	color: #BDBDBD;
 }
