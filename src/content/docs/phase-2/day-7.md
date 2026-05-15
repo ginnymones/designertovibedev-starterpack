@@ -6,12 +6,13 @@ description: "Make every section look great on phones, tablets, and desktops."
 
 ## Day 7 — Responsive Deep-Dive
 
-**Time needed:** 30–45 minutes
-**Goal:** Make every section of your landing page look great on phones, tablets, and desktops.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Make every section of your landing page look great on phones, tablets, and desktops.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You've touched on responsive design in bits and pieces. Today you're doing a full pass — checking every section at different screen sizes and fixing anything that breaks or looks awkward.
 
@@ -19,7 +20,7 @@ This is like doing a QA (Quality Assurance — checking that everything works co
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 **Responsive design** means your layout adapts to the screen it's being viewed on. Instead of building separate pages for mobile and desktop, you build one page that rearranges itself based on available space.
 
@@ -32,7 +33,7 @@ Think of breakpoints like the artboard sizes in your design file. You're designi
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Test and Identify Issues
 
@@ -100,7 +101,7 @@ You're not designing three separate pages. You're designing one page that *flows
 
 ---
 
-### Bonus: Touch-Friendly Targets
+### 🎁 Bonus: Touch-Friendly Targets
 
 ```
 Make sure all clickable elements (buttons, nav links, cards) have a minimum tap target size of 44x44px on mobile. This is an accessibility standard — fingers are bigger than mouse cursors, so touch targets need to be larger.
@@ -108,7 +109,7 @@ Make sure all clickable elements (buttons, nav links, cards) have a minimum tap 
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to do a full responsive audit of a multi-section page
 - What breakpoints are and how they work (screen widths where layout shifts)
@@ -118,7 +119,7 @@ Make sure all clickable elements (buttons, nav links, cards) have a minimum tap 
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add scroll-triggered animations — elements that reveal themselves as the visitor scrolls down the page.
 

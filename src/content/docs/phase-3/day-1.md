@@ -6,8 +6,9 @@ description: "Define your portfolio structure and build the homepage layout."
 
 ## Day 1 — Planning Your Portfolio
 
-**Time needed:** 30–45 minutes
-**Goal:** Define your portfolio structure, set up the project, and build the homepage layout.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Define your portfolio structure, set up the project, and build the homepage layout.
 
 ---
 
@@ -134,7 +135,7 @@ Keep the design clean and spacious. Let the work speak for itself — portfolios
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to plan a multi-page site architecture
 - How to organize files for a larger project (separate stylesheets, scripts folder, asset subfolders)
@@ -143,7 +144,7 @@ Keep the design clean and spacious. Let the work speak for itself — portfolios
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the about page — your story, your skills, and what makes you different.
 

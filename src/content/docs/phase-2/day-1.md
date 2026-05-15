@@ -6,8 +6,9 @@ description: "Plan your landing page structure and build the hero section."
 
 ## Day 1 — Setting the Stage
 
-**Time needed:** 30–45 minutes
-**Goal:** Plan your landing page structure and build the hero section.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Plan your landing page structure and build the hero section.
 
 ---
 
@@ -130,7 +131,7 @@ Add a visual element to the hero — either a screenshot/mockup of my palette ge
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to plan a multi-section page before building it
 - How to build a hero section with clear visual hierarchy
@@ -139,7 +140,7 @@ Add a visual element to the hero — either a screenshot/mockup of my palette ge
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the features section — a grid of benefits that tells visitors what your tool can do.
 

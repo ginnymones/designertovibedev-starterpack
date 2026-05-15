@@ -6,18 +6,19 @@ description: "Build the project cards that link to your case studies."
 
 ## Day 3 — Project Grid
 
-**Time needed:** 30–45 minutes
-**Goal:** Build the project cards on your homepage that link to your case studies.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Build the project cards on your homepage that link to your case studies.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 The homepage project section is the most important part of your portfolio. It's the first thing potential clients or employers look at. Today you're turning those placeholder cards from Day 1 into polished, clickable project previews.
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Project cards on a portfolio typically show:
 - A thumbnail or preview image (a screenshot of the project)
@@ -29,7 +30,7 @@ They should be visually consistent, clearly clickable, and give just enough info
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Design the Project Cards
 
@@ -107,7 +108,7 @@ Help me take good screenshots of my projects for my portfolio:
 
 ---
 
-### Bonus: A "More Coming Soon" Indicator
+### 🎁 Bonus: A "More Coming Soon" Indicator
 
 ```
 Below the two project cards, add a subtle message: "More projects coming soon" in a muted color, or a third card with a dashed border and a "+" icon that hints at future work. Keep it understated.
@@ -115,7 +116,7 @@ Below the two project cards, add a subtle message: "More projects coming soon" i
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a project card grid with thumbnails, titles, and hover effects
 - How to make entire cards clickable (wrapping content in a link)
@@ -124,7 +125,7 @@ Below the two project cards, add a subtle message: "More projects coming soon" i
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build your first case study page — a deep dive into your Palette Generator project.
 

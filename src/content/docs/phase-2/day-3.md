@@ -6,12 +6,13 @@ description: "Build a step-by-step section showing visitors how easy the tool is
 
 ## Day 3 — How It Works
 
-**Time needed:** 30–45 minutes
-**Goal:** Build a step-by-step section that shows visitors how easy the tool is to use.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Build a step-by-step section that shows visitors how easy the tool is to use.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You've told visitors *what* your tool does. Now you show them *how* — in three simple steps. This section reduces friction. It says: "This isn't complicated. Look, it's just 1-2-3."
 
@@ -19,7 +20,7 @@ Think of it like the onboarding screens in a mobile app. Short, visual, confiden
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 A "How It Works" section typically:
 - Has 3 steps (occasionally 4, never more)
@@ -31,7 +32,7 @@ Three is the magic number. It feels manageable. More than three and people start
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: The Three Steps
 
@@ -76,7 +77,7 @@ Give this section its own visual identity:
 
 ---
 
-### Design Principle: Progressive Disclosure
+### 🎨 Design Principle: Progressive Disclosure
 
 What you're doing here is called **progressive disclosure** — revealing information in digestible chunks rather than all at once. Your landing page does this naturally:
 
@@ -88,7 +89,7 @@ Each section answers the next logical question a visitor would have. You're guid
 
 ---
 
-### Bonus: Animated Steps
+### 🎁 Bonus: Animated Steps
 
 ```
 Add a subtle animation so the three steps fade in one by one as the user scrolls down to this section. Each step should appear with a slight delay after the previous one (stagger them by about 200ms). Use a gentle fade-up effect.
@@ -98,7 +99,7 @@ Add a subtle animation so the three steps fade in one by one as the user scrolls
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a step-by-step sequence layout
 - How to use visual connectors (lines, arrows) to show progression
@@ -107,7 +108,7 @@ Add a subtle animation so the three steps fade in one by one as the user scrolls
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add social proof — testimonials from (fictional) users that build trust and credibility.
 

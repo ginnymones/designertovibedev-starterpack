@@ -6,18 +6,19 @@ description: "Add lightboxes, hover effects, and transitions."
 
 ## Day 6 — Project Page Interactions
 
-**Time needed:** 30–45 minutes
-**Goal:** Add interactive elements to your case study pages — image lightboxes, hover details, and smooth transitions.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add interactive elements to your case study pages — image lightboxes, hover details, and smooth transitions.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Your case study pages have content, but they feel static. Today you're adding interactions that make them feel polished and engaging — the kind of details that make someone think "this person knows what they're doing."
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Image Lightbox
 
@@ -76,7 +77,7 @@ Add a reading progress bar to the case study pages:
 
 ---
 
-### Design Thinking: Purposeful Interaction
+### 🎨 Design Thinking: Purposeful Interaction
 
 Every interaction you add should serve a purpose:
 - **Lightbox** → lets visitors see detail without losing context
@@ -88,7 +89,7 @@ If an interaction doesn't serve the user, it's decoration. Decoration is fine in
 
 ---
 
-### Bonus: Animated Stats
+### 🎁 Bonus: Animated Stats
 
 ```
 If you have any stats or numbers on your case study pages (like "Built in 7 days" or "14 sessions"), add a count-up animation that triggers when they scroll into view. The number should animate from 0 to its final value over about 1 second.
@@ -96,7 +97,7 @@ If you have any stats or numbers on your case study pages (like "Built in 7 days
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a lightbox (full-screen image viewer) for project screenshots
 - How to add meaningful hover states that signal interactivity
@@ -106,7 +107,7 @@ If you have any stats or numbers on your case study pages (like "Built in 7 days
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the contact page with a form and your social links.
 

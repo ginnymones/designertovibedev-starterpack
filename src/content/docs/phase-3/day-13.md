@@ -6,12 +6,13 @@ description: "Final consistency pass and deploy your complete portfolio."
 
 ## Day 13 — Final Polish & Deploy
 
-**Time needed:** 45–60 minutes
-**Goal:** Final consistency pass, last refinements, and deploy your complete portfolio.
+**⏱️ Time needed:** 45–60 minutes
+
+**🎯 Goal:** Final consistency pass, last refinements, and deploy your complete portfolio.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 This is it. The final session before you share your portfolio with the world. Today is about catching the last inconsistencies, adding final touches, and getting everything live.
 
@@ -123,7 +124,7 @@ After deploying, check everything one more time:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to do a final quality pass before launching
 - How to deploy a multi-page static site
@@ -133,7 +134,7 @@ After deploying, check everything one more time:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You launch. You share. You reflect on everything you've accomplished.
 

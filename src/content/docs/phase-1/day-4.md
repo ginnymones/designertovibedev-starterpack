@@ -6,12 +6,13 @@ description: "Add a lock toggle so locked colors stay put when you generate a ne
 
 ## Day 4 — Lock Your Favorites
 
-**Time needed:** 30–45 minutes
-**Goal:** Add a lock toggle to each swatch so locked colors stay put when you generate a new palette.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add a lock toggle to each swatch so locked colors stay put when you generate a new palette.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Right now, every time you hit "Generate," all five colors change. But what if you find a perfect teal and want to keep it while shuffling the rest? You need a way to protect individual colors.
 
@@ -19,13 +20,13 @@ Today you're adding a lock/unlock toggle to each swatch. Locked colors stay; unl
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Think of it like pinning a layer in your design file. You're telling the system: "Don't touch this one." The rest can change freely.
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Add Lock Icons
 
@@ -75,7 +76,7 @@ You'll encounter this concept a lot in building for the web. Everything interact
 
 ---
 
-### Bonus: Unlock All Button
+### 🎁 Bonus: Unlock All Button
 
 ```
 Add a small "Unlock All" text button near the Generate button. When clicked, it unlocks all swatches at once. Style it as a subtle secondary action — smaller text, no heavy background, just an underline or muted color.
@@ -85,7 +86,7 @@ This is a quality-of-life feature. Small, but it shows you're thinking about the
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to add toggle interactions (on/off, locked/unlocked)
 - How to make one feature affect another (lock state affects the generate function)
@@ -94,7 +95,7 @@ This is a quality-of-life feature. Small, but it shows you're thinking about the
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add the ability to save your favorite palettes so you can come back to them later. Your tool is about to get a memory.
 

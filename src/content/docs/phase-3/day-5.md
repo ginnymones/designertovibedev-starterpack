@@ -6,18 +6,19 @@ description: "Build the case study page for your landing page project."
 
 ## Day 5 — Case Study: Landing Page
 
-**Time needed:** 45–60 minutes
-**Goal:** Build the case study page for your landing page project.
+**⏱️ Time needed:** 45–60 minutes
+
+**🎯 Goal:** Build the case study page for your landing page project.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Same structure as yesterday, different project. You're documenting your landing page build — but this time, the story is about growth. You went from building a simple tool to building a full marketing page with animations, forms, accessibility, and SEO.
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Page Header
 
@@ -111,7 +112,7 @@ In code terms, you're reusing the same CSS (project.css) for both case study pag
 
 ---
 
-### Bonus: Side-by-Side Comparison
+### 🎁 Bonus: Side-by-Side Comparison
 
 ```
 Add a small section comparing the two projects:
@@ -127,7 +128,7 @@ This reinforces the narrative arc of your portfolio — you don't just design, y
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to reuse page structures (same layout, different content) for consistency
 - How to document a more complex project with multiple sections
@@ -136,7 +137,7 @@ This reinforces the narrative arc of your portfolio — you don't just design, y
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add interactive elements to your project pages — image galleries, hover details, and transitions.
 

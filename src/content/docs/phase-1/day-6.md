@@ -6,12 +6,13 @@ description: "Refine the visual design, add personality, and make it responsive.
 
 ## Day 6 — Polish & Personality
 
-**Time needed:** 30–45 minutes
-**Goal:** Refine the visual design, add personality, and make it responsive (works on different screen sizes).
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Refine the visual design, add personality, and make it responsive (works on different screen sizes).
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Your tool works. All the features are in place. Today is about making it *feel* finished — the kind of polish that separates "I built a thing" from "I built a thing I'm proud of."
 
@@ -19,13 +20,13 @@ This is your territory. You're a designer. Today is the day your skills shine br
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Think of this as the final design pass before handoff — except there's no handoff. You're the designer *and* the builder. Every refinement you describe gets applied immediately.
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Typography & Hierarchy
 
@@ -97,7 +98,7 @@ Trust those instincts. Describe what feels off, and the AI will adjust. You're a
 
 ---
 
-### Bonus: Dark Mode
+### 🎁 Bonus: Dark Mode
 
 ```
 Add a small toggle in the top-right corner that switches between light and dark mode. In dark mode:
@@ -110,7 +111,7 @@ Remember the user's preference so it stays the same when they come back.
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to refine typography, spacing, and visual hierarchy through prompts
 - What "responsive" means and how to make layouts adapt to different screens
@@ -119,7 +120,7 @@ Remember the user's preference so it stays the same when they come back.
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You ship it. You'll put your palette generator on the internet where anyone can use it. It takes about 10 minutes.
 

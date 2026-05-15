@@ -6,12 +6,13 @@ description: "Deploy your palette generator to the internet."
 
 ## Day 7 — Ship It
 
-**Time needed:** 20–30 minutes
-**Goal:** Deploy your palette generator to the internet so anyone with the link can use it.
+**⏱️ Time needed:** 20–30 minutes
+
+**🎯 Goal:** Deploy your palette generator to the internet so anyone with the link can use it.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Your tool is done. It works, it looks good, and it's sitting on your computer. Today you put it on the internet.
 
@@ -21,7 +22,7 @@ It's easier than you think. Seriously, about 10 minutes.
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Right now your project lives in a folder on your computer. Deploying means uploading it to a service that hosts it for you — like posting a design to Dribbble, except it's a live, working thing.
 
@@ -112,7 +113,7 @@ That's not a small thing. That's a real thing.
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to deploy a project to the internet
 - What hosting platforms are and how they work
@@ -121,7 +122,7 @@ That's not a small thing. That's a real thing.
 
 ---
 
-### What's Next
+### ⏭️ What's Next
 
 **Phase 2** starts whenever you're ready. You'll build a landing page for your palette generator — a polished marketing page that presents your tool to the world. It'll teach you layout, responsive design at a deeper level, and how to build multi-section pages.
 

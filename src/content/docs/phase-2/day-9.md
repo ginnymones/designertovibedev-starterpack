@@ -6,12 +6,13 @@ description: "Add an email signup form with validation and visual feedback."
 
 ## Day 9 — Contact Form
 
-**Time needed:** 30–45 minutes
-**Goal:** Add an email signup or contact form with validation and visual feedback.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add an email signup or contact form with validation and visual feedback.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 So far, your landing page talks *at* visitors. Today you're adding a way for visitors to talk *back* — through a form. This could be an email signup ("Get notified about updates") or a contact form ("Say hello").
 
@@ -19,7 +20,7 @@ Forms are one of the most common elements on the web, and they introduce a new c
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 A form has a few parts:
 - **Input fields** — where people type (text boxes, email fields, text areas)
@@ -32,7 +33,7 @@ For this exercise, we'll build the form and handle validation visually. We won't
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Build the Form
 
@@ -79,7 +80,7 @@ Style the form input states:
 
 ---
 
-### Design Thinking: Form UX
+### 🎨 Design Thinking: Form UX
 
 Forms are where a lot of websites lose people. Good form design:
 - **Minimizes fields** — only ask for what you need (just email here, not name + company + phone)
@@ -91,7 +92,7 @@ You're already thinking about this because you're a designer. The difference is 
 
 ---
 
-### Bonus: A Thank-You State
+### 🎁 Bonus: A Thank-You State
 
 ```
 After successful submission, replace the entire form section with a thank-you message:
@@ -103,7 +104,7 @@ After successful submission, replace the entire form section with a thank-you me
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a form with input fields and buttons
 - How to add validation (checking that input is correct before accepting it)
@@ -113,7 +114,7 @@ After successful submission, replace the entire form section with a thank-you me
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll tackle performance and accessibility — making sure your page loads fast and works for everyone, including people using screen readers or keyboard navigation.
 

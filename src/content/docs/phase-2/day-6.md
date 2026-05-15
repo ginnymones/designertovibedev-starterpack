@@ -6,12 +6,13 @@ description: "Add a sticky navigation bar and a footer."
 
 ## Day 6 — Navigation & Footer
 
-**Time needed:** 30–45 minutes
-**Goal:** Add a sticky navigation bar and a footer to tie the whole page together.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add a sticky navigation bar and a footer to tie the whole page together.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Your page has great content, but no way to navigate it. Right now, visitors have to scroll through everything linearly. Today you're adding a navigation bar at the top (so people can jump to any section) and a footer at the bottom (for links, credits, and closure).
 
@@ -19,7 +20,7 @@ These are the structural bookends of any website. They frame the content and giv
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 **Navigation (nav bar):** A horizontal bar at the top of the page with links to each section. On landing pages, these usually scroll smoothly to the relevant section rather than loading a new page.
 
@@ -27,7 +28,7 @@ These are the structural bookends of any website. They frame the content and giv
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: The Navigation Bar
 
@@ -88,7 +89,7 @@ As the user scrolls down the page, highlight the corresponding navigation link. 
 
 ---
 
-### Design Thinking: Consistency
+### 🎨 Design Thinking: Consistency
 
 Your nav bar and footer are the frame around your content. They should feel like they belong to the same family:
 - Same font as the rest of the page
@@ -99,7 +100,7 @@ Think of them like the header and footer of a presentation template — consiste
 
 ---
 
-### Bonus: Back to Top Button
+### 🎁 Bonus: Back to Top Button
 
 ```
 Add a small "back to top" button that appears in the bottom-right corner when the user has scrolled past the hero section. It should be a small circle with an up arrow (↑), and clicking it smooth-scrolls back to the top. Fade it in and out based on scroll position.
@@ -107,7 +108,7 @@ Add a small "back to top" button that appears in the bottom-right corner when th
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a fixed navigation bar with smooth-scroll links
 - How to create a responsive mobile menu (hamburger pattern)
@@ -117,7 +118,7 @@ Add a small "back to top" button that appears in the bottom-right corner when th
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll dive deep into responsive design — making sure every section of your page looks great on phones, tablets, and desktops.
 

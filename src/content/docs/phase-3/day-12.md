@@ -6,12 +6,13 @@ description: "Make your entire portfolio accessible to everyone."
 
 ## Day 12 — Accessibility Pass
 
-**Time needed:** 30–45 minutes
-**Goal:** Make your entire portfolio accessible to people with disabilities — screen reader users, keyboard-only users, and people with visual impairments.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Make your entire portfolio accessible to people with disabilities — screen reader users, keyboard-only users, and people with visual impairments.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You covered accessibility basics in Phase 2 (Day 10). Today you're doing a thorough pass across your entire multi-page portfolio. This is more comprehensive because you have more pages, more interactions, and more content to audit.
 
@@ -118,7 +119,7 @@ Audit my contact form for accessibility:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to audit semantic HTML structure across a multi-page site
 - How to write meaningful alt text for different types of images
@@ -130,7 +131,7 @@ Audit my contact form for accessibility:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll do a final polish pass and deploy the complete portfolio.
 

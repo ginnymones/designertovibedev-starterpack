@@ -6,12 +6,13 @@ description: "Embed your actual palette generator into the landing page."
 
 ## Day 5 — Live Demo
 
-**Time needed:** 30–45 minutes
-**Goal:** Embed your actual palette generator into the landing page so visitors can try it without leaving.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Embed your actual palette generator into the landing page so visitors can try it without leaving.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 This is the moment your two projects connect. You're going to put your working palette generator *inside* your landing page. Visitors won't just read about your tool — they'll use it, right there on the page.
 
@@ -19,7 +20,7 @@ This is called an **embedded demo** — and it's one of the most effective thing
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 There are two ways to embed your tool:
 
@@ -31,7 +32,7 @@ We'll go with option 1 (iframe) because it's simpler and your tool is already de
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Create the Demo Section
 
@@ -72,7 +73,7 @@ Make the demo section work on smaller screens:
 
 ---
 
-### Why This Matters
+### 🎯 Why This Matters
 
 You just connected two separate projects. Your landing page isn't just *about* your tool — it *contains* your tool. This is a pattern used by real products everywhere:
 
@@ -84,7 +85,7 @@ You're doing the same thing. At week 3. That's not nothing.
 
 ---
 
-### Bonus: A CTA Below the Demo
+### 🎁 Bonus: A CTA Below the Demo
 
 ```
 Right below the demo, add a call-to-action:
@@ -95,7 +96,7 @@ Right below the demo, add a call-to-action:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to embed external content using an iframe (a window into another page)
 - How to create a "browser mockup" container for visual polish
@@ -104,7 +105,7 @@ Right below the demo, add a call-to-action:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the navigation and footer — the structural elements that tie the whole page together and let visitors jump between sections.
 

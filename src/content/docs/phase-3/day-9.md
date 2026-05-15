@@ -6,12 +6,13 @@ description: "Full responsive pass on every page of your portfolio."
 
 ## Day 9 — Responsive Across All Pages
 
-**Time needed:** 30–45 minutes
-**Goal:** Do a full responsive pass on every page of your portfolio.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Do a full responsive pass on every page of your portfolio.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You've done responsive work before (Phase 1 Day 6, Phase 2 Day 7). Today you're applying it across your entire multi-page site — making sure every page works beautifully on phones, tablets, and desktops.
 
@@ -103,7 +104,7 @@ Use this as a mental checklist for any page:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to do a systematic responsive audit across a multi-page site
 - That responsive design is about consistency — every page should feel intentional at every size
@@ -112,7 +113,7 @@ Use this as a mental checklist for any page:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll optimize performance and add loading states across the site.
 

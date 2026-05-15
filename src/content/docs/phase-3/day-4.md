@@ -6,12 +6,13 @@ description: "Build a full case study page for your Color Palette Generator."
 
 ## Day 4 — Case Study: Palette Generator
 
-**Time needed:** 45–60 minutes
-**Goal:** Build a full case study page for your Color Palette Generator project.
+**⏱️ Time needed:** 45–60 minutes
+
+**🎯 Goal:** Build a full case study page for your Color Palette Generator project.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 This is where you tell the story of your first project. A case study isn't just screenshots — it's a narrative. Why did you build it? What decisions did you make? What did you learn?
 
@@ -19,7 +20,7 @@ Think of it like presenting a project in a portfolio review. You're walking some
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 A strong case study typically follows this structure:
 1. **Overview** — what it is, in one sentence
@@ -31,7 +32,7 @@ A strong case study typically follows this structure:
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Page Header
 
@@ -119,7 +120,7 @@ End with the same footer as all other pages.
 
 ---
 
-### Design Thinking: Case Study Layout
+### 🎨 Design Thinking: Case Study Layout
 
 The best portfolio case studies:
 - **Use generous whitespace** — don't cram content
@@ -130,7 +131,7 @@ The best portfolio case studies:
 
 ---
 
-### Bonus: Before/After or Progress Shots
+### 🎁 Bonus: Before/After or Progress Shots
 
 ```
 Add a small "Progress" section showing how the project evolved:
@@ -143,7 +144,7 @@ Display these as a horizontal timeline or a simple 3-image row with captions. Th
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to structure a case study page with a narrative arc (problem → solution → process → outcome)
 - How to create a readable long-form content layout (narrow max-width, generous line-height)
@@ -152,7 +153,7 @@ Display these as a horizontal timeline or a simple 3-image row with captions. Th
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the second case study page — for your landing page project.
 

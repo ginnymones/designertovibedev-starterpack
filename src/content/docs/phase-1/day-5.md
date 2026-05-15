@@ -6,18 +6,19 @@ description: "Save favorite palettes and display them in a collection."
 
 ## Day 5 — Save Your Palettes
 
-**Time needed:** 30–45 minutes
-**Goal:** Save favorite palettes and display them in a collection below the generator.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Save favorite palettes and display them in a collection below the generator.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You can generate palettes and lock colors, but the moment you close your browser, everything disappears. Today you're giving your tool a memory — the ability to save palettes you love and see them listed below the generator.
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Think of it like a "favorites" or "bookmarks" feature. You find a palette you love, hit save, and it appears in a collection below. Next time you open the page, your saved palettes are still there.
 
@@ -25,7 +26,7 @@ Where do they get saved? In something called local storage — a small storage s
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Add a Save Button
 
@@ -82,7 +83,7 @@ You built this in five sessions. With words.
 
 ---
 
-### Bonus: Export Options
+### 🎁 Bonus: Export Options
 
 If you're feeling ambitious:
 
@@ -98,7 +99,7 @@ This makes your tool genuinely useful for web design work — you can paste thes
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to save and retrieve data using the browser's local storage
 - How to display a growing list of items (your saved palettes collection)
@@ -107,7 +108,7 @@ This makes your tool genuinely useful for web design work — you can paste thes
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll polish everything — typography, spacing, transitions, responsive layout — so it looks as good as it works. Design time.
 

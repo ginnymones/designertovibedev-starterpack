@@ -6,12 +6,13 @@ description: "Share your portfolio and chart your path forward."
 
 ## Day 14 — Launch & What's Next
 
-**Time needed:** 30 minutes
-**Goal:** Share your portfolio, celebrate what you've built, and chart your path forward.
+**⏱️ Time needed:** 30 minutes
+
+**🎯 Goal:** Share your portfolio, celebrate what you've built, and chart your path forward.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You're done. Not "done with a tutorial" — done building a real portfolio with real projects that lives on the real internet. Today you share it, reflect on the journey, and decide what comes next.
 

@@ -6,12 +6,13 @@ description: "Add a testimonials section that builds trust and credibility."
 
 ## Day 4 — Social Proof
 
-**Time needed:** 30–45 minutes
-**Goal:** Add a testimonials section that builds trust and credibility.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add a testimonials section that builds trust and credibility.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 People trust other people more than they trust marketing copy. That's why every landing page has testimonials, reviews, or logos of companies that use the product.
 
@@ -19,7 +20,7 @@ Today you're adding social proof — quotes from (fictional) users who love your
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Social proof works because of a simple psychological principle: "If other people like this, maybe I will too." On a landing page, it usually appears as:
 - Quote cards with a name and role
@@ -31,7 +32,7 @@ You'll build testimonial cards today — the most common and visually flexible f
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Testimonial Cards
 
@@ -98,7 +99,7 @@ If you ever ship this landing page for real, replace these with genuine feedback
 
 ---
 
-### Bonus: A Stats Bar
+### 🎁 Bonus: A Stats Bar
 
 For extra credibility, add a simple stats section:
 
@@ -113,7 +114,7 @@ Display them in a row with generous spacing. Make the numbers large and bold, wi
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build testimonial card layouts
 - How to use typography hierarchy within a card (quote → name → role)
@@ -122,7 +123,7 @@ Display them in a row with generous spacing. Make the numbers large and bold, wi
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll embed your actual palette generator into the landing page as a live demo. Visitors will be able to try it without leaving the page.
 

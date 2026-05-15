@@ -6,12 +6,13 @@ description: "Make your page load fast and work for everyone."
 
 ## Day 10 — Performance & Accessibility
 
-**Time needed:** 30–45 minutes
-**Goal:** Make your page load fast and work for everyone — including people with disabilities.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Make your page load fast and work for everyone — including people with disabilities.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Your page looks great and works well. But does it load quickly? Can someone using a screen reader navigate it? Can someone who can't use a mouse still interact with everything?
 
@@ -19,7 +20,7 @@ Today is about two things that separate amateur projects from professional ones:
 
 ---
 
-### Why This Matters
+### 🎯 Why This Matters
 
 **Performance:** If your page takes more than 3 seconds to load, most visitors leave. Speed is a feature.
 
@@ -109,7 +110,7 @@ For a more thorough check, you can also open your browser's DevTools (right-clic
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to optimize images and loading for better performance
 - What semantic HTML is and why it matters for accessibility
@@ -119,7 +120,7 @@ For a more thorough check, you can also open your browser's DevTools (right-clic
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add SEO (Search Engine Optimization) basics and social sharing metadata — so your page looks good when shared on social media and can be found through search engines.
 

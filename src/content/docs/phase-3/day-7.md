@@ -6,18 +6,19 @@ description: "Build your contact page with a form and social links."
 
 ## Day 7 — Contact Page
 
-**Time needed:** 30–45 minutes
-**Goal:** Build your contact page with a form, social links, and a clear call-to-action.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Build your contact page with a form, social links, and a clear call-to-action.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 The contact page is where interest turns into conversation. Someone liked your work, now they want to reach out. Make it easy, inviting, and frictionless.
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Page Layout
 
@@ -89,7 +90,7 @@ Which is easiest to set up? Walk me through connecting one of them so my form ac
 
 ---
 
-### Design Thinking: Reducing Friction
+### 🎨 Design Thinking: Reducing Friction
 
 The best contact pages:
 - **Don't ask for too much** — name, email, message. That's it. Every extra field reduces submissions.
@@ -99,7 +100,7 @@ The best contact pages:
 
 ---
 
-### Bonus: Availability Status
+### 🎁 Bonus: Availability Status
 
 ```
 Add a small "availability" indicator near the top of the contact page:
@@ -110,7 +111,7 @@ Add a small "availability" indicator near the top of the contact page:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a multi-field contact form with validation
 - How to connect a static form to an email service (Formspree or similar)
@@ -119,7 +120,7 @@ Add a small "availability" indicator near the top of the contact page:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the shared navigation and footer as reusable elements across all pages.
 

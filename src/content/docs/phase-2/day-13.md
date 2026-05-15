@@ -6,12 +6,13 @@ description: "Deploy your landing page and connect a custom domain."
 
 ## Day 13 — Deploy & Custom Domain
 
-**Time needed:** 30–40 minutes
-**Goal:** Deploy your landing page and optionally connect a custom domain.
+**⏱️ Time needed:** 30–40 minutes
+
+**🎯 Goal:** Deploy your landing page and optionally connect a custom domain.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You've done this before (Phase 1, Day 7), so this should feel familiar. The difference is that this time you're deploying a more polished, multi-section page — and optionally giving it a professional URL.
 
@@ -101,7 +102,7 @@ This is how real products work. A marketing site that points to the actual produ
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to deploy a more complex project (same process, more confidence)
 - How to verify a deployment across devices and browsers
@@ -110,7 +111,7 @@ This is how real products work. A marketing site that points to the actual produ
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll share your work, gather feedback, and wrap up Phase 2.
 

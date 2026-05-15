@@ -6,8 +6,9 @@ description: "Display a row of five color swatches on your page."
 
 ## Day 1 — Your First Colors on Screen
 
-**Time needed:** 30–45 minutes
-**Goal:** Display a row of five color swatches on your page.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Display a row of five color swatches on your page.
 
 ---
 
@@ -25,7 +26,7 @@ Imagine five paint chips sitting side by side, each a different color, each show
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### A Quick Note on File Organization
 
@@ -102,7 +103,7 @@ That's a real interface. You designed it with words instead of dragging rectangl
 
 ---
 
-### Bonus: Make It Yours
+### 🎁 Bonus: Make It Yours
 
 If you have extra time or energy, try asking the AI to:
 - Change the font to something you like (e.g., "Use Inter for the body text and a serif font for the heading")
@@ -113,7 +114,7 @@ These are low-risk experiments. You can't break anything — and if you do, just
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to describe a layout to an AI and get working code back
 - How to refine visual details through follow-up prompts
@@ -121,7 +122,7 @@ These are low-risk experiments. You can't break anything — and if you do, just
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add a button that generates random colors every time you click it. Your static paint chips are about to come alive.
 

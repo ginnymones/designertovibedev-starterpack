@@ -6,12 +6,13 @@ description: "Add scroll-triggered animations that reveal content as visitors sc
 
 ## Day 8 — Scroll Animations
 
-**Time needed:** 30–45 minutes
-**Goal:** Add scroll-triggered animations that reveal content as visitors scroll down the page.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add scroll-triggered animations that reveal content as visitors scroll down the page.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Static pages feel flat. Today you're adding motion — elements that fade in, slide up, or scale into view as the visitor scrolls. This makes the page feel alive and guides attention to each section as it appears.
 
@@ -19,7 +20,7 @@ You've seen this on every modern landing page. Sections don't just *exist* — t
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 **Scroll-triggered animations** work like this:
 1. Elements start invisible (or slightly offset)
@@ -30,7 +31,7 @@ This is sometimes called "reveal on scroll" or "animate on scroll."
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Basic Fade-In
 
@@ -105,7 +106,7 @@ You already have good taste for this from your design work. Trust your gut — i
 
 ---
 
-### Bonus: Smooth Scroll Behavior
+### 🎁 Bonus: Smooth Scroll Behavior
 
 ```
 Make sure all scroll behavior on the page is smooth — when clicking nav links, when using the "back to top" button, and any other scroll-based navigation. Add this as a global CSS rule.
@@ -113,7 +114,7 @@ Make sure all scroll behavior on the page is smooth — when clicking nav links,
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to add scroll-triggered reveal animations
 - How to stagger animations for groups of elements
@@ -123,7 +124,7 @@ Make sure all scroll behavior on the page is smooth — when clicking nav links,
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add a contact form or email signup — your first time handling user input.
 

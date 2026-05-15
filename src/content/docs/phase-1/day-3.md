@@ -6,12 +6,13 @@ description: "Click any swatch to copy its hex code to your clipboard."
 
 ## Day 3 — Copy That Color
 
-**Time needed:** 30–45 minutes
-**Goal:** Click any swatch to copy its hex code to your clipboard, with visual feedback confirming it worked.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Click any swatch to copy its hex code to your clipboard, with visual feedback confirming it worked.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You've got a palette generator that shuffles colors. But right now, if you see a color you love, you'd have to manually select the hex text and copy it. That's friction — and as designers, we eliminate friction.
 
@@ -19,13 +20,13 @@ Today you'll make it so clicking a swatch instantly copies its color code. You'l
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Think about how "copy to clipboard" works in tools you already use. You click, something briefly flashes or shows a checkmark, and the value is ready to paste. That's exactly what you're building.
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Click to Copy
 
@@ -62,7 +63,7 @@ Add a slight scale-down effect when a swatch is clicked (like pressing a button)
 
 ---
 
-### A Design Principle You Already Know
+### 🎨 A Design Principle You Already Know
 
 What you just built is a **microinteraction** — a small, contained moment that:
 1. Has a trigger (clicking the swatch)
@@ -73,7 +74,7 @@ You've probably designed dozens of these in Figma. The difference is that this o
 
 ---
 
-### Bonus: Sound Effect (Just for Fun)
+### 🎁 Bonus: Sound Effect (Just for Fun)
 
 If you want to experiment:
 
@@ -85,7 +86,7 @@ This is optional and a matter of taste. But it's a good example of how you can e
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to make elements respond to clicks with real functionality (not just visual states)
 - How to provide user feedback for invisible actions
@@ -94,7 +95,7 @@ This is optional and a matter of taste. But it's a good example of how you can e
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add the ability to "lock" individual colors — so when you generate a new palette, your favorites stay put while the rest shuffle. This is where your tool starts feeling genuinely useful.
 

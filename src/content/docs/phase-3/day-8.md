@@ -6,12 +6,13 @@ description: "Make nav and footer consistent across all pages."
 
 ## Day 8 — Shared Navigation & Footer
 
-**Time needed:** 30–45 minutes
-**Goal:** Make your navigation and footer consistent across all pages and easy to update in one place.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Make your navigation and footer consistent across all pages and easy to update in one place.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Right now, your nav and footer are copy-pasted into every HTML file. That means if you want to change a link or update your footer text, you'd have to edit 5 files. That's fragile and annoying.
 
@@ -90,7 +91,7 @@ Make sure the mobile hamburger menu works on all pages:
 
 ---
 
-### Why This Matters
+### 🎯 Why This Matters
 
 This is your first taste of **DRY** (Don't Repeat Yourself) — a principle that says: if you're writing the same thing in multiple places, find a way to write it once and reference it everywhere.
 
@@ -103,7 +104,7 @@ In code, the same principle applies. Today you applied it to your nav and footer
 
 ---
 
-### Bonus: Breadcrumbs on Project Pages
+### 🎁 Bonus: Breadcrumbs on Project Pages
 
 ```
 On the case study pages, add a breadcrumb navigation below the main nav:
@@ -114,7 +115,7 @@ Each part should be a clickable link (except the current page, which is just tex
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to create shared/reusable elements across multiple pages (like components in Figma)
 - The DRY principle (Don't Repeat Yourself) — write once, use everywhere
@@ -124,7 +125,7 @@ Each part should be a clickable link (except the current page, which is just tex
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll make every page fully responsive — a complete pass across all 5 pages.
 

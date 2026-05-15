@@ -6,8 +6,9 @@ description: "Get your tools ready and have your first conversation with an AI c
 
 ## Day 0 — Setup & Your First AI Interaction
 
-**Time needed:** ~30 minutes
-**Goal:** Get your tools ready and have your first conversation with an AI coding partner.
+**⏱️ Time needed:** ~30 minutes
+
+**🎯 Goal:** Get your tools ready and have your first conversation with an AI coding partner.
 
 ---
 
@@ -137,7 +138,7 @@ You don't need to memorize any of this. Just notice that the code reads more lik
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to set up a coding workspace
 - How to organize your project files (and why it matters)
@@ -147,7 +148,7 @@ You don't need to memorize any of this. Just notice that the code reads more lik
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll start building your Color Palette Generator. We'll put actual colors on screen — and it'll take less time than you think.
 

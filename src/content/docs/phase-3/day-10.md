@@ -6,12 +6,13 @@ description: "Optimize loading speed and add polished loading states."
 
 ## Day 10 — Performance & Loading
 
-**Time needed:** 30–45 minutes
-**Goal:** Optimize your site's loading speed and add polished loading states.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Optimize your site's loading speed and add polished loading states.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 A portfolio that loads slowly makes a bad first impression — especially to other designers and developers who notice these things. Today you're making your site fast and adding loading states so nothing feels janky during load.
 
@@ -91,7 +92,7 @@ Add a subtle page load animation to all pages:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to optimize images for the web (format, dimensions, lazy loading)
 - How to prevent layout shift (width/height attributes, font-display: swap)
@@ -101,7 +102,7 @@ Add a subtle page load animation to all pages:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add SEO and social sharing metadata to all pages of your portfolio.
 

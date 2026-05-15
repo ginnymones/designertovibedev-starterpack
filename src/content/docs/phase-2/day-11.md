@@ -6,12 +6,13 @@ description: "Make your page discoverable and look great when shared."
 
 ## Day 11 — SEO & Social Sharing
 
-**Time needed:** 30–40 minutes
-**Goal:** Make your page discoverable by search engines and look great when shared on social media.
+**⏱️ Time needed:** 30–40 minutes
+
+**🎯 Goal:** Make your page discoverable by search engines and look great when shared on social media.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You've built a beautiful, accessible landing page. But if you share the link on Twitter or LinkedIn right now, it'll probably show up as a plain URL with no preview image or description. And if someone searches for "color palette generator," your page won't appear.
 
@@ -19,7 +20,7 @@ Today you're fixing both of those things with **SEO** (Search Engine Optimizatio
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 When you share a link on social media, the platform looks for special tags in your page's code to generate a preview card. These tags are called **Open Graph** (OG) tags — a standard created by Facebook that's now used everywhere.
 
@@ -29,7 +30,7 @@ Both live in the `<head>` section of your HTML — the part visitors don't see, 
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Basic SEO Tags
 
@@ -107,7 +108,7 @@ After deploying your updated page:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - What SEO is and how basic meta tags help search engines find your page
 - What Open Graph tags are and how they control social media previews
@@ -116,7 +117,7 @@ After deploying your updated page:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll do a final polish pass — consistency, details, and making everything feel cohesive.
 

@@ -6,12 +6,13 @@ description: "Build your about page with your story, skills, and personality."
 
 ## Day 2 — About Page
 
-**Time needed:** 30–45 minutes
-**Goal:** Build your about page — your story, skills, and what makes you unique.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Build your about page — your story, skills, and what makes you unique.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 The about page is where visitors go to understand who's behind the work. It's not a resume — it's a story. The best about pages feel personal, confident, and concise.
 
@@ -19,7 +20,7 @@ As a designer, you already know how to present yourself visually. Today you're d
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Page Structure
 
@@ -91,7 +92,7 @@ Style it as a subtle, muted section — almost like a footnote. It makes the pag
 
 ---
 
-### Design Thinking: Restraint
+### 🎨 Design Thinking: Restraint
 
 Portfolio about pages are tempting to over-design. Resist the urge. The best ones:
 - Use plenty of whitespace
@@ -103,7 +104,7 @@ Your about page should take 30 seconds to read. If it takes longer, cut somethin
 
 ---
 
-### Bonus: A Timeline (Optional)
+### 🎁 Bonus: A Timeline (Optional)
 
 ```
 If I have enough career history, add a minimal timeline or experience section:
@@ -114,7 +115,7 @@ If I have enough career history, add a minimal timeline or experience section:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a two-column layout for content pages
 - How to structure an about page that's personal but professional
@@ -123,7 +124,7 @@ If I have enough career history, add a minimal timeline or experience section:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build the project grid on your homepage — the cards that link to your case studies.
 

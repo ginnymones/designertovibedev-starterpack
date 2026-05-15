@@ -6,12 +6,13 @@ description: "Consistency pass and refine every detail."
 
 ## Day 12 — Final Polish
 
-**Time needed:** 30–45 minutes
-**Goal:** Do a consistency pass and refine every detail until the page feels cohesive and complete.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Do a consistency pass and refine every detail until the page feels cohesive and complete.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 This is your final design review. You're going through the entire page with fresh eyes, catching inconsistencies, tightening details, and making sure everything feels like it belongs together.
 
@@ -99,7 +100,7 @@ If something feels off, describe it to your AI assistant. Your instinct is usual
 
 ---
 
-### Bonus: A Loading State
+### 🎁 Bonus: A Loading State
 
 ```
 Add a simple loading state for when the page first opens:
@@ -110,7 +111,7 @@ Add a simple loading state for when the page first opens:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to do a systematic consistency audit (typography, spacing, color, interactions)
 - That polish is about consistency more than complexity
@@ -119,7 +120,7 @@ Add a simple loading state for when the page first opens:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You deploy the final version and connect a custom domain.
 

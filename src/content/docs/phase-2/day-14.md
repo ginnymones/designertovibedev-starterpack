@@ -6,12 +6,13 @@ description: "Share your work, gather feedback, and reflect."
 
 ## Day 14 — Share & Reflect
 
-**Time needed:** 20–30 minutes
-**Goal:** Share your work, gather feedback, and reflect on what you've learned.
+**⏱️ Time needed:** 20–30 minutes
+
+**🎯 Goal:** Share your work, gather feedback, and reflect on what you've learned.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You're done building. Today is about putting your work out there, hearing what people think, and taking stock of how far you've come.
 
@@ -102,7 +103,7 @@ Take a moment to look at what you've accomplished in Phase 2:
 
 ---
 
-### What's Next
+### ⏭️ What's Next
 
 **Phase 3** is your portfolio — a multi-page site that showcases both projects as case studies. It's the capstone that ties everything together.
 

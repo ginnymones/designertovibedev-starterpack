@@ -6,12 +6,13 @@ description: "Add metadata to all pages for discoverability."
 
 ## Day 11 — SEO & Social Sharing
 
-**Time needed:** 30–40 minutes
-**Goal:** Add metadata to all pages so your portfolio is discoverable and looks great when shared.
+**⏱️ Time needed:** 30–40 minutes
+
+**🎯 Goal:** Add metadata to all pages so your portfolio is discoverable and looks great when shared.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 You did this for your landing page in Phase 2 (Day 11). Now you're applying the same principles across your entire portfolio — every page gets proper SEO (Search Engine Optimization) tags and social sharing metadata.
 
@@ -19,7 +20,7 @@ The difference this time: you have multiple pages, so each one needs its own uni
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Page-Specific Meta Tags
 
@@ -111,7 +112,7 @@ After deploying, test each page's sharing preview:
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to add unique SEO metadata to each page of a multi-page site
 - How to create page-specific Open Graph images and tags
@@ -121,7 +122,7 @@ After deploying, test each page's sharing preview:
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll do a full accessibility pass across all pages.
 

@@ -6,12 +6,13 @@ description: "Add a button that generates a brand new random palette every time 
 
 ## Day 2 — Making It Interactive
 
-**Time needed:** 30–45 minutes
-**Goal:** Add a button that generates a brand new random palette every time you click it.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Add a button that generates a brand new random palette every time you click it.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Yesterday you put colors on screen. Today you're going to make them *change*. This is the moment your project goes from "a picture of a thing" to "an actual thing."
 
@@ -19,7 +20,7 @@ In design terms: you're moving from a static mockup to a working prototype. Exce
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 Right now your five swatches show hardcoded colors — they're always the same. You're going to add a button that, when clicked, picks five new random colors and updates the swatches instantly.
 
@@ -27,7 +28,7 @@ Think of it like hitting "shuffle" on a playlist, but for colors.
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: Add the Generate Button
 
@@ -77,7 +78,7 @@ JavaScript is what makes web pages interactive. It's the layer that responds to 
 
 ---
 
-### Bonus: Keyboard Shortcut
+### 🎁 Bonus: Keyboard Shortcut
 
 If you want to feel fancy:
 
@@ -89,7 +90,7 @@ Now you can rapid-fire through palettes without even clicking. Satisfying, right
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to add a button and make it trigger an action
 - How to describe interaction behavior (hover states, transitions, feedback) to an AI
@@ -98,7 +99,7 @@ Now you can rapid-fire through palettes without even clicking. Satisfying, right
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll add the ability to click on any swatch and copy its hex code to your clipboard. Because what good is a palette if you can't use the colors?
 

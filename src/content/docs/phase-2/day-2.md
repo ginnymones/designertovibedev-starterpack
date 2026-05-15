@@ -6,12 +6,13 @@ description: "Build a features section that showcases what your palette generato
 
 ## Day 2 — Features That Sell
 
-**Time needed:** 30–45 minutes
-**Goal:** Build a features section that showcases what your palette generator can do.
+**⏱️ Time needed:** 30–45 minutes
+
+**🎯 Goal:** Build a features section that showcases what your palette generator can do.
 
 ---
 
-### What's Happening Today
+### 📍 What's Happening Today
 
 Your hero grabbed attention. Now you need to answer the visitor's next question: "What does this thing actually do?"
 
@@ -19,7 +20,7 @@ The features section is where you lay out the key benefits — not as a boring l
 
 ---
 
-### The Concept
+### 🧠 The Concept
 
 A good features section:
 - Shows 3–4 benefits (not 12 — keep it focused)
@@ -29,7 +30,7 @@ A good features section:
 
 ---
 
-### Let's Go
+### 🚀 Let's Go
 
 #### Prompt 1: The Features Grid
 
@@ -76,7 +77,7 @@ Style the features section as a whole:
 
 ---
 
-### Design Thinking: Rhythm and Contrast
+### 🎨 Design Thinking: Rhythm and Contrast
 
 Notice what you're doing here — you're creating **rhythm** on the page. The hero is spacious and bold. The features section is structured and scannable. Each section has its own personality but they flow together.
 
@@ -84,7 +85,7 @@ This is the same principle as designing a presentation deck or a magazine spread
 
 ---
 
-### Bonus: Responsive Grid
+### 🎁 Bonus: Responsive Grid
 
 ```
 On tablet screens, make the feature cards a 2x2 grid. On mobile (under 600px wide), stack them in a single column. Make sure the cards have enough space between them at every size.
@@ -94,7 +95,7 @@ On tablet screens, make the feature cards a 2x2 grid. On mobile (under 600px wid
 
 ---
 
-### What You Learned Today
+### 💡 What You Learned Today
 
 - How to build a grid-based features section
 - How to create visual hierarchy within cards (icon → title → description)
@@ -103,7 +104,7 @@ On tablet screens, make the feature cards a 2x2 grid. On mobile (under 600px wid
 
 ---
 
-### Tomorrow
+### ⏭️ Tomorrow
 
 You'll build a "How It Works" section — a step-by-step walkthrough that shows visitors how easy the tool is to use.
 
