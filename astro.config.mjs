@@ -8,7 +8,7 @@ export default defineConfig({
 		starlight({
 			title: 'Vibe Coding Starter Pack',
 			description: 'A guided, project-based path for designers who want to build real things with the help of AI.',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/ginnymones/designer-to-vibedeveloper-starter-pack' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/ginnymones/designertovibedev-starterpack' }],
 			customCss: ['./src/styles/custom.css'],
 			sidebar: [
 				{
